@@ -4,7 +4,6 @@
 - 🔭 I’m currently working a woodworking shop.
 - 🌱 I’m currently learning Java / phyton / html
 - 📫 How to reach me: guiba1616@gmail.com
-- 😄 Pronouns: he
 <div align="center">
   <a href="https://github.com/OtalDoGuilhermin">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=OtalDoGuilhermin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
