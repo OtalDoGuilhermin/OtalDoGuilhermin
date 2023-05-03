@@ -6,8 +6,8 @@
 - 📫 How to reach me: guiba1616@gmail.com
 <div align="center">
   <a href="https://github.com/OtalDoGuilhermin">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=OtalDoGuilhermin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtalDoGuilhermin&layout=compact&langs_count=7&theme=onedark"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OtalDoGuilhermin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OtalDoGuilhermin&layout=compact&langs_count=7&theme=onedark"/>
 </div>
   
   ##
