@@ -1,9 +1,12 @@
 ### Hello my name is Guilherme and this is my gitHub profile
 
-
+<p>
 - 🔭 I’m currently working a woodworking shop.
+<br>
 - 🌱 I’m currently learning Java / phyton / html
-- 📫 How to reach me: guiba1616@gmail.com
+<br>
+ - 📫 How to reach me: guiba1616@gmail.com
+</P>
 <div align="center">
   <a href="https://github.com/OtalDoGuilhermin">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=OtalDoGuilhermin&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
