@@ -3,7 +3,7 @@
 <p>
 - 🔭 I’m currently working a woodworking shop.
 <br>
-- 🌱 I’m currently learning Java / phyton / html
+- 🌱 I’m currently learning Java / css / html / JavaScript
 <br>
  - 📫 How to reach me: guiba1616@gmail.com
 </P>
