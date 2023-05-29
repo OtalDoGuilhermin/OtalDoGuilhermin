@@ -2,7 +2,7 @@
 
 <p>
 
-- 📚 I’m currently learning Java / css / html / JavaScript
+- 📚 I’m currently learning  css / html / JavaScript
 <br>
 
 </P>
